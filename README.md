@@ -11,8 +11,11 @@ This project provides a comprehensive audit of a bike sales CRM campaign involvi
 Through this project, I demonstrate proficiency in Power Query (data cleaning), Power Pivot & DAX (financial modeling), and Data Visualization (interactive dashboarding), while maintaining a critical mindset toward data quality.
 
 ## Dataset Overview & Preparation
+
 **Original Data Source:** The core schema and initial records originated from this [Excel Tutorial dataset](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/b80a3c4f971a1608f2593ad8a585b53fbe74435e/Data%20Cleaning%20Excel%20Tutorial.xlsx).
+
 **Dataset Expansion:** To simulate a large-scale CRM campaign, I utilized Gemini (Generative AI) to expand the original dataset to 5,000 unique leads, ensuring statistical significance for the analysis.
+
 **Intentional Data "Dirtying":** For educational and auditing purposes, I utilized Gemini (Generative AI) to introduce "noise" and inconsistencies into the expanded dataset. This allowed me to demonstrate advanced Power Query cleaning techniques.
 
 ## Business Case
